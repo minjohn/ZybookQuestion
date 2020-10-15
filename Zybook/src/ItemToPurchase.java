@@ -9,6 +9,10 @@ public class ItemToPurchase {
 	
     }
     
+    int NumberOfItems() {
+	return 0;
+    }
+    
     public String getItemName() {
         return itemName;
     }
