@@ -4,6 +4,11 @@ public class ItemToPurchase {
     String itemName;
     int itemPrice;
     int itemQuantity;
+    
+    void Calculate() {
+	
+    }
+    
     public String getItemName() {
         return itemName;
     }
